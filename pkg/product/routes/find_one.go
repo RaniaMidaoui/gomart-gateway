@@ -5,7 +5,7 @@ import (
 	"net/http"
 	"strconv"
 
-	"github.com/RaniaMidaoui/goMart-gateway/pkg/product/pb"
+	"github.com/RaniaMidaoui/gomart-gateway/pkg/product/pb"
 	"github.com/gin-gonic/gin"
 )
 

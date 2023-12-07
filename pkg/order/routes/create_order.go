@@ -4,7 +4,7 @@ import (
 	"context"
 	"net/http"
 
-	"github.com/RaniaMidaoui/goMart-gateway/pkg/order/pb"
+	"github.com/RaniaMidaoui/gomart-gateway/pkg/order/pb"
 	"github.com/gin-gonic/gin"
 )
 

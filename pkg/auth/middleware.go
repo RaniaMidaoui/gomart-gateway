@@ -5,7 +5,7 @@ import (
 	"net/http"
 	"strings"
 
-	"github.com/RaniaMidaoui/goMart-gateway/pkg/auth/pb"
+	"github.com/RaniaMidaoui/gomart-gateway/pkg/auth/pb"
 	"github.com/gin-gonic/gin"
 )
 

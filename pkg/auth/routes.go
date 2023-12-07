@@ -1,8 +1,8 @@
 package auth
 
 import (
-	"github.com/RaniaMidaoui/goMart-gateway/pkg/auth/routes"
-	"github.com/RaniaMidaoui/goMart-gateway/pkg/config"
+	"github.com/RaniaMidaoui/gomart-gateway/pkg/auth/routes"
+	"github.com/RaniaMidaoui/gomart-gateway/pkg/config"
 	"github.com/gin-gonic/gin"
 )
 

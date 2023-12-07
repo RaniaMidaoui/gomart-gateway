@@ -1,4 +1,4 @@
-# goMart-gateway
+# gomart-gateway
 This repository contains the code and Dockerfile for the API Gateway of the **goMart** application, along with the Jenkinsfile describing the CI/CD pipeline.
 
 To run the code, you need to have Golang package installed:

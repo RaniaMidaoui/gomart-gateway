@@ -1,4 +1,4 @@
-module github.com/RaniaMidaoui/goMart-gateway
+module github.com/RaniaMidaoui/gomart-gateway
 
 go 1.20
 

@@ -1,9 +1,9 @@
 package product
 
 import (
-	"github.com/RaniaMidaoui/goMart-gateway/pkg/auth"
-	"github.com/RaniaMidaoui/goMart-gateway/pkg/config"
-	"github.com/RaniaMidaoui/goMart-gateway/pkg/product/routes"
+	"github.com/RaniaMidaoui/gomart-gateway/pkg/auth"
+	"github.com/RaniaMidaoui/gomart-gateway/pkg/config"
+	"github.com/RaniaMidaoui/gomart-gateway/pkg/product/routes"
 	"github.com/gin-gonic/gin"
 )
 

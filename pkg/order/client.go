@@ -3,8 +3,8 @@ package order
 import (
 	"fmt"
 
-	"github.com/RaniaMidaoui/goMart-gateway/pkg/config"
-	"github.com/RaniaMidaoui/goMart-gateway/pkg/order/pb"
+	"github.com/RaniaMidaoui/gomart-gateway/pkg/config"
+	"github.com/RaniaMidaoui/gomart-gateway/pkg/order/pb"
 	"google.golang.org/grpc"
 )
 

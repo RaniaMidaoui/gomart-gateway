@@ -3,8 +3,8 @@ package auth
 import (
 	"fmt"
 
-	"github.com/RaniaMidaoui/goMart-gateway/pkg/auth/pb"
-	"github.com/RaniaMidaoui/goMart-gateway/pkg/config"
+	"github.com/RaniaMidaoui/gomart-gateway/pkg/auth/pb"
+	"github.com/RaniaMidaoui/gomart-gateway/pkg/config"
 	"google.golang.org/grpc"
 )
 

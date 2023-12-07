@@ -4,10 +4,10 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/RaniaMidaoui/goMart-gateway/pkg/auth"
-	"github.com/RaniaMidaoui/goMart-gateway/pkg/config"
-	"github.com/RaniaMidaoui/goMart-gateway/pkg/order"
-	"github.com/RaniaMidaoui/goMart-gateway/pkg/product"
+	"github.com/RaniaMidaoui/gomart-gateway/pkg/auth"
+	"github.com/RaniaMidaoui/gomart-gateway/pkg/config"
+	"github.com/RaniaMidaoui/gomart-gateway/pkg/order"
+	"github.com/RaniaMidaoui/gomart-gateway/pkg/product"
 	"github.com/gin-gonic/gin"
 )
 
